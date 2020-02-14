@@ -16,9 +16,11 @@ The model uses the method described in [Perceptual Losses for Real-Time Style Tr
 # Usages
 ## download repo
   - download this repo by the following instruction:
+    
         $ git clone https://github.com/brightyoun/Video-Style-Transfer.git
         $ cd Video-Style-Transfer
         
 ## Demo
   - Demo
-      $ python neural_style.py eval --model saved_models/[MODEL_PATH] --cuda [1]
+          
+        $ python neural_style.py eval --model saved_models/[MODEL_PATH] --cuda [1]
