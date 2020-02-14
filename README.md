@@ -30,3 +30,9 @@ The model uses the method described in [Perceptual Losses for Real-Time Style Tr
 ```bash
 python neural_style/neural_style.py train --dataset </path/to/train-dataset> --style-image </path/to/style/image> --save-model-dir </path/to/save-model/folder> --epochs 2 --cuda 1
 ```
+
+# References
+   - [ Perceptual Losses for Real-Time Style Transfer and Super-Resolution] (https://link.springer.com/chapter/10.1007/978-3-319-46475-6_43)
+   
+# Contacts
+   - Email : brightyoun@gist.ac.kr
